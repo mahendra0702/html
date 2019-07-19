@@ -2,7 +2,7 @@
 html page
 <!DOCTYPE html>
 <html>
-<body>
+<body bgcolor="#E6E6FA">
 
 <h1>My First Heading</h1>
 
