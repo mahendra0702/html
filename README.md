@@ -7,6 +7,7 @@ html page
 <h1>My First Heading</h1>
 
 <p>My first paragraph.</p>
+<h2>My Second Heading</h>
 
 </body>
 </html>
